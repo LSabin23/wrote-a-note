@@ -26,6 +26,7 @@ router.post('/notes', (req, res) => {
     JSON.stringify(notesArr, null, 2)
   )
   // return new note to client
+  res.json(newNote)
 })
 
 // OPTIONAL: create DELETE /api/notes/:id route

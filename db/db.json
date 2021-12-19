@@ -8,5 +8,15 @@
     "title": "Do the thing",
     "text": "Do a bunch of stuff to do the thing",
     "id": "b0c67b6e-7455-42b9-858d-5c6d2fb3ab15"
+  },
+  {
+    "title": "Return new note test",
+    "text": "Note should appear in left column upon save",
+    "id": "400519ab-1f10-4b9e-a56b-e5f315fe263d"
+  },
+  {
+    "title": "Another new note test",
+    "text": "Testing more stuff",
+    "id": "a9b314d7-a2f5-4399-89d5-566f08fd56e5"
   }
 ]
