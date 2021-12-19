@@ -1,22 +1,27 @@
 [
   {
-    "title": "Test Title",
-    "text": "Test text",
+    "title": "Get Hype for Horizon Forbidden West",
+    "text": "Stay off Reddit to avoid spoilers",
     "id": "48e48138-7b8c-44e4-96e4-18cca853f084"
   },
   {
-    "title": "Do the thing",
-    "text": "Do a bunch of stuff to do the thing",
+    "title": "Build doggo's self-esteem",
+    "text": "Tell him he's adorable",
     "id": "b0c67b6e-7455-42b9-858d-5c6d2fb3ab15"
   },
   {
-    "title": "Return new note test",
-    "text": "Note should appear in left column upon save",
+    "title": "Buy tickets for K.K. Rave on Paradise Island",
+    "text": "Just kidding he pays me to play on my island",
     "id": "400519ab-1f10-4b9e-a56b-e5f315fe263d"
   },
   {
-    "title": "Another new note test",
-    "text": "Testing more stuff",
+    "title": "Buy more books to not read",
+    "text": "Seriously though, Thriftbooks.com is bad for my literary acquisition addiction",
     "id": "a9b314d7-a2f5-4399-89d5-566f08fd56e5"
+  },
+  {
+    "title": "Finish Wedding Quilt",
+    "text": "All the colors in the world in fabric and y'all had to pick black and white?!",
+    "id": "9852518e-33d0-4730-840b-06630388ac46"
   }
 ]

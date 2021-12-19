@@ -30,5 +30,19 @@ router.post('/notes', (req, res) => {
 })
 
 // OPTIONAL: create DELETE /api/notes/:id route
+router.delete('/notes/:id', (req, res) => {
+  // find note object in db.json with matching id
+  const deleteId = req.params.id
+  // remove item with this id
+  const filteredNotes = notesArr.filter(note => note.id === !deleteId)
+  console.log(filteredNotes)
+  // rewrite db.json file with updated array
+  // fs.writeFileSync(
+  //   path.join(__dirname, '../../db/db.json'),
+  //   JSON.stringify(filteredNotes, null, 2)
+  // )
+  // send updated notes list to client
+  // res.json(filteredNotes)
+})
 
 module.exports = router
